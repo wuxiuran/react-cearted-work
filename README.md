@@ -1,6 +1,6 @@
-# passport-security-center
+# react-created-work
 
-> 安全中心PC端
+> 基于 webpack 的 react 脚手架项目
 
 ## Build Setup
 
